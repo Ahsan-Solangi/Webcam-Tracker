@@ -1,0 +1,6 @@
+opencv-python
+numpy
+mediapipe>=0.10.0
+scipy
+pyautogui
+keyboard
